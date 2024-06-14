@@ -1,6 +1,6 @@
-## Getting Started
+## About
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This repo contains Socket programming in Java and TCP and UDP communication between Server and Client using Java packages.
 
 ## Folder Structure
 
